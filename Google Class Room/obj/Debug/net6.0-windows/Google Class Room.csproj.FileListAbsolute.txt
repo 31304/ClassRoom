@@ -1,0 +1,79 @@
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Google Class Room.exe
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Google Class Room.deps.json
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Google Class Room.runtimeconfig.json
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Google Class Room.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Google Class Room.pdb
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.csproj.AssemblyReference.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form1.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Properties.Resources.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.csproj.GenerateResource.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.AssemblyInfoInputs.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.AssemblyInfo.cs
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.csproj.CoreCompileInputs.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\refint\Google Class Room.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.pdb
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.genruntimeconfig.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\ref\Google Class Room.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form2.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form3.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form4.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form5.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form6.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form7.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.TxAgg.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.TxBDD.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.SSCE.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.TxSplit.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.TxDataConvert.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.TxDerived.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.OleDbSrc.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Interop.TxLookup.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.csproj.ResolveComReference.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google Class Room.csproj.CopyComplete
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form8.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\PdfiumViewer.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\nl\PdfiumViewer.resources.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UploadFileLib.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Atalasoft.dotImage.Lib.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Atalasoft.dotImage.PdfReader.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Atalasoft.dotImage.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Atalasoft.Shared.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\UglyToad.PdfPig.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\WinRT.Controls.PdfViewer.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\itextsharp.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\PdfSharp.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Spire.Pdf.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Spire.PdfViewer.Asp.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\Spire.PdfViewer.Forms.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form9.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form10.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form11.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form12.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form13.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form14.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form15.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form16.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form17.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form18.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form19.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\bin\Debug\net6.0-windows\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form20.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\net6.0-windows\Google_Class_Room.Form21.resources

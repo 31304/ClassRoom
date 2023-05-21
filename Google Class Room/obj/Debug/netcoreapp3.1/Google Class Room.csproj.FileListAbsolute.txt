@@ -1,0 +1,10 @@
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google Class Room.csproj.AssemblyReference.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google_Class_Room.Form1.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google_Class_Room.Form2.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google_Class_Room.Form3.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google_Class_Room.Properties.Resources.resources
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google Class Room.csproj.GenerateResource.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google Class Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google Class Room.AssemblyInfoInputs.cache
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google Class Room.AssemblyInfo.cs
+C:\Users\samii\OneDrive\Desktop\Google Class Room\Google Class Room\obj\Debug\netcoreapp3.1\Google Class Room.csproj.CoreCompileInputs.cache
