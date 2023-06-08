@@ -54,7 +54,8 @@ namespace Google_Class_Room
         {
             cn.Close();
             cn.Open();
-            cm = new SqlCommand("select * from AssignmentComment", cn);
+            cm = new SqlCommand("select * from AssignmentComment where assignmentid = @assignmentid ", cn);
+            cm.Parameters.AddWithValue("@assignmentid ", id);
             dr = cm.ExecuteReader();
             if (dr.HasRows)
             {

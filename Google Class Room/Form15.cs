@@ -159,7 +159,8 @@ namespace Google_Class_Room
         private void Form15_Load(object sender, EventArgs e)
         {
             cn.Open();
-            cm = new SqlCommand("select * from AssignmentComment", cn);
+            cm = new SqlCommand("select * from AssignmentComment where assignmentid = @assignmentid", cn);
+            cm.Parameters.AddWithValue("@assignmentid ", id);
             dr = cm.ExecuteReader();
             if (dr.HasRows)
             {
